@@ -1,0 +1,24 @@
+th {
+    color:white;
+}
+html {
+    
+    background-image: url("black-death-skeletons.jpg");
+}
+body {
+    background-color: transparent;
+}
+img {
+    margin: auto;
+}
+th {
+    font-size: 30px;
+}
+tr {
+    color: white;
+    font-size: 30px;
+    font-weight: 800;
+}
+h1{
+    color: white;
+}
