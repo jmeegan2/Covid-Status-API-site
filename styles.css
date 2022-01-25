@@ -3,7 +3,11 @@ th {
 }
 html {
     
+    background-size:cover;
     background-image: url("black-death-skeletons.jpg");
+}
+background-image {
+    opacity: 25%;
 }
 body {
     background-color: transparent;
@@ -21,4 +25,7 @@ tr {
 }
 h1{
     color: white;
+}
+.btn {
+    width: 25%;
 }
