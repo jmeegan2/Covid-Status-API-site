@@ -4,28 +4,42 @@ th {
 html {
     
     background-size:cover;
-    background-image: url("black-death-skeletons.jpg");
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.45),
+        rgba(0, 0, 0, 0.45)
+      ), url("black-death-skeletons.jpg");
 }
-background-image {
-    opacity: 25%;
-}
-body {
-    background-color: transparent;
-}
+
 img {
     margin: auto;
 }
 th {
+    text-align: center;
     font-size: 30px;
 }
 tr {
     color: white;
     font-size: 30px;
     font-weight: 800;
+    text-align: center;
 }
 h1{
     color: white;
 }
 .btn {
-    width: 25%;
+    background-color: black;
 }
+p {
+    font-size: 30px;
+    
+}
+td {
+    border-style : hidden!important;
+   }
+   input {
+    border-style : hidden!important;
+       color: white;
+       background-color: black;
+       width: 25%;
+       font-weight: 700;
+   }
