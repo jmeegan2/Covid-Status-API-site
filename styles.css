@@ -90,3 +90,18 @@ td {
         font-size: 20px;
     }
   }
+  @media screen and (max-width:400px) {
+
+    .mt-5  {
+            font-size: 15px;
+        }
+       th {
+           font-size: 10px;
+       }
+     td{
+         font-size: 10px;
+     }
+     [type=button], [type=reset], [type=submit], button {
+        font-size: 10px;
+    }
+  }
