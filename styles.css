@@ -57,7 +57,7 @@ td {
        font-weight: 700;
    }
 
-   @media screen and (max-width:480px) {
+   @media screen and (max-width:800px) {
 
     .mt-5  {
             font-size: 25px;
