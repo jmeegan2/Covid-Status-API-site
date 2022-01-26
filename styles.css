@@ -8,7 +8,7 @@ body, html {
   }
   
   html {
-      ba;
+      
     /* The image used */
     background-image:linear-gradient(
         rgba(0, 0, 0, 0.45),
@@ -21,7 +21,7 @@ body, html {
     /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
-    background-size:auto;
+    background-size: cover;
   }
 
 img {
