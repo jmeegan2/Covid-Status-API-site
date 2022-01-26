@@ -74,3 +74,19 @@ td {
         font-size: 15px;
     }
   }
+
+  @media screen and (max-width:1000px) {
+
+    .mt-5  {
+            font-size: 30px;
+        }
+       th {
+           font-size: 25px;
+       }
+     td{
+         font-size: 20px;
+     }
+     [type=button], [type=reset], [type=submit], button {
+        font-size: 20px;
+    }
+  }
