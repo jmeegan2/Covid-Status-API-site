@@ -1,7 +1,12 @@
 th {
     color:white;
 }
-
+.mt-5 {
+    color: rgb(253, 0, 0);
+    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+    font-size: 60px;
+}
 
 body, html {
     height: 100%;
@@ -30,7 +35,7 @@ img {
 }
 th {
     text-align: center;
-    font-size: 30px;
+    font-size: 35px;
 }
 tr {
     color: white;
@@ -38,9 +43,7 @@ tr {
     font-weight: 800;
     text-align: center;
 }
-h1{
-    color: white;
-}
+
 .btn {
     background-color: black;
 }
